@@ -160,11 +160,6 @@ nav a {
     text-decoration: none;
 }
 
-nav a:hover {
-    font-size: large;
-    color: var(--pink);
-}
-
 /* Main Sections */
 
 /* subheadings h3, h4, p */
